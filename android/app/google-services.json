@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "760304019998",
+    "firebase_url": "https://spaco-firebase-default-rtdb.firebaseio.com",
+    "project_id": "spaco-firebase",
+    "storage_bucket": "spaco-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760304019998:android:f1c16e6187d40d8778dc0f",
+        "android_client_info": {
+          "package_name": "com.spaco.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760304019998-6iq3kohdg5bma796l925j4k3pfm60g4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760304019998-6iq3kohdg5bma796l925j4k3pfm60g4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
